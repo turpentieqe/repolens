@@ -1,5 +1,7 @@
 # RepoLens
 
+English | [Русский](README.ru.md)
+
 **See how your code connects.**
 
 A local-first dependency explorer for JavaScript and TypeScript. Turn a project into an interactive map, follow imports, and spot circular dependencies without uploading your code.
